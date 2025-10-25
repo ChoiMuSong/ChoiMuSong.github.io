@@ -1,0 +1,16 @@
+title: "Musong’s Dev Log"
+description: "KAIST CS | Indie Game Dev | Notes on Programming"
+theme: minima
+author: "Musong Choi"
+timezone: Asia/Seoul
+
+# permalink 설정: URL 구조
+permalink: /:year/:month/:day/:title/
+
+# markdown 설정
+markdown: kramdown
+
+# GitHub Pages용
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
